@@ -1,4 +1,4 @@
-# DB_Onboard_Train_Menu Analyse des gastronomischen Angebotes der Deutschen Bahn 
+# DB_Onboard_Train_Menu: Analyse des gastronomischen Angebotes der Deutschen Bahn 
 
 Diese Web-App bietet dir alle Informationen über das gastronomische Speisen- und Getänkeangebot in den Fernverkehrszügen der Deutschen Bahn
 ### Funktionen
