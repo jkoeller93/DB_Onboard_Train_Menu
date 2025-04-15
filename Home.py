@@ -4,6 +4,11 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import plotly.express as px
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+csv = os.getenv("food_all_cleaned")
 
 # Funktion, die dann in "main.py" importiert wird
 def show_home():
