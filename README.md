@@ -1,6 +1,6 @@
-# DB_Onboard_Train_Menu Eine multifunktionale Reise-App für Städte, Länder, Kultur und Wetterinfos in Europa
-Diese Web-App bietet dir alle wichtigen Infos zu deinem nächsten Reiseziel. Wähle auf der Startseite ein Land aus – die Auswahl einer Stadt ist optional. Je nach Auswahl erhältst du Daten zu Wetter, Events, Feiertagen, Sehenswürdigkeiten und mehr.
+# DB_Onboard_Train_Menu Analyse des gastronomischen Angebotes der Deutschen Bahn 
 
+Diese Web-App bietet dir alle Informationen über das gastronomische Speisen- und Getänkeangebot in den Fernverkehrszügen der Deutschen Bahn
 ### 🚀 Funktionen
 👉 Basic Facts – Fakten zu Sprache, Währung, Zeitzone etc.
 🌤 Wetter – Erfordert eine Stadtauswahl für präzise Infos.
