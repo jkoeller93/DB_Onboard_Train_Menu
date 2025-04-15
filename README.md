@@ -1,24 +1,21 @@
 # DB_Onboard_Train_Menu Analyse des gastronomischen Angebotes der Deutschen Bahn 
 
 Diese Web-App bietet dir alle Informationen über das gastronomische Speisen- und Getänkeangebot in den Fernverkehrszügen der Deutschen Bahn
-### 🚀 Funktionen
-👉 Basic Facts – Fakten zu Sprache, Währung, Zeitzone etc.
-🌤 Wetter – Erfordert eine Stadtauswahl für präzise Infos.
-🎉 Feiertage – Zeigt landesspezifische Feiertage unabhängig von der Stadt.
-📅 Events – Erfordert eine Stadtauswahl für präzise Infos.
-📸 Sehen & Essen – Sehenswürdigkeiten & kulinarische Highlights in Land oder Stadt.
-⚖️ Gleichstellung der Geschlechter – wie sieht's mit der Gleichstellung im Land aus?
+### Funktionen
+- Home – Allgemeine Informationen und Statistiken zum gastronomischen Angebot
 
+- Food – Detaillierte Informationen und Analysen zum Speisenangebot
 
-### 🛠 Genutzte APIs
+- Beverages – Detaillierte Informationen und Analysen zum Getränkeangebot (in Bearbeitung)
+
+### Genutzte APIs
 Die App bezieht ihre Daten aus verschiedenen Quellen:
 
-🌍 World Bank – Wirtschaftsdaten & Statistiken
-🎟 Ticketmaster API – Events & Veranstaltungen
-🇺🇳 restcountries – Länderinfos
-📚 Wikidata – Allgemeine Wissensdatenbank
-📆 Calendarific – Feiertage weltweit
-☁️ OpenWeatherMap – Wetterdaten
+- Web Archive: https://web.archive.org/
+
+- Online-Speisekarte der Deutschen Bahn: https://db-bordgastronomie.de/digitalespeisekarte
+
+- Analoge Speisekarten der Deutschen Bahn
 
 ## Installation & Nutzung
 
