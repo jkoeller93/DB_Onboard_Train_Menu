@@ -1,8 +1,5 @@
-from functions import load_csv, clean_price, save_csv, add_date
 import streamlit as st
 import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
 import plotly.express as px
 from dotenv import load_dotenv
 import os
